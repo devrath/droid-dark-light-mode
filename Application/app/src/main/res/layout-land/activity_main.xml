@@ -42,7 +42,7 @@
         android:forceDarkAllowed="false"
         android:padding="@dimen/half_margin"
         android:text="@string/change_mode"
-        
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/message" />
