@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle" parent="AppTheme">
+        <item name="android:text">@string/dark_mode_text</item>
+    </style>
+
+    <style name="ImageStyle" parent="AppTheme">
+        <item name="android:src">@drawable/dark_mode_img</item>
+    </style>
+</resources>

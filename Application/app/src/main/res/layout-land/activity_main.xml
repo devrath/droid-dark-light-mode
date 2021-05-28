@@ -14,7 +14,7 @@
 
     <ImageView
       android:id="@+id/astronaut"
-      style="@style/Astronaut"
+      style="@style/ImageStyle"
       android:layout_width="400dp"
       android:layout_height="0dp"
       android:contentDescription="@string/astronaut"
@@ -25,7 +25,7 @@
 
     <TextView
       android:id="@+id/message"
-      style="@style/MessageText"
+      style="@style/TextStyle"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:textSize="48sp"

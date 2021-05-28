@@ -1,7 +1,7 @@
 <resources>
   <string name="app_name">Dark Mode Demo</string>
-  <string name="let_me_out">Let me out!</string>
-  <string name="to_the_moon">To the moon!</string>
+  <string name="dark_mode_text">Dark mode text</string>
+  <string name="light_mode_text">Light mode text</string>
   <string name="astronaut">Astronaut</string>
   <string name="light">Light</string>
   <string name="dark">Dark</string>

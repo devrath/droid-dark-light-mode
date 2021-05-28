@@ -9,12 +9,12 @@
     <item name="android:forceDarkAllowed">true</item>
   </style>
 
-  <style name="MessageText" parent="AppTheme">
-    <item name="android:text">@string/let_me_out</item>
+  <style name="TextStyle" parent="AppTheme">
+    <item name="android:text">@string/dark_mode_text</item>
   </style>
 
-  <style name="Astronaut" parent="AppTheme">
-    <item name="android:src">@drawable/airlock</item>
+  <style name="ImageStyle" parent="AppTheme">
+    <item name="android:src">@drawable/light_mode_img</item>
   </style>
 
 </resources>
