@@ -28,14 +28,9 @@
  * THE SOFTWARE.
  */
 
-package com.raywenderlich.airlock
+package com.application.demo
 
-import android.app.Application
-
-class AirlockApplication : Application() {
-
-  override fun onCreate() {
-    super.onCreate()
-
-  }
+object Constants {
+  const val PREFS_MODE = "PREFS_MODE"
+  const val MODE_KEY = "MODE_KEY"
 }

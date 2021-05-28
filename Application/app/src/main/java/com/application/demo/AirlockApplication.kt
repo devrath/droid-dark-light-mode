@@ -28,47 +28,14 @@
  * THE SOFTWARE.
  */
 
-package com.raywenderlich.airlock
+package com.application.demo
 
-import android.os.Bundle
-import android.util.Log
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.RadioGroup
-import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.fragment.app.DialogFragment
-import kotlinx.android.synthetic.main.fragment_settings.*
+import android.app.Application
 
-class SettingsFragment : DialogFragment(), RadioGroup.OnCheckedChangeListener {
-  
-  override fun onStart() {
-    super.onStart()
+class AirlockApplication : Application() {
 
-    dialog?.window?.setLayout(ConstraintLayout.LayoutParams.MATCH_PARENT, ConstraintLayout.LayoutParams.WRAP_CONTENT)
-  }
-
-  override fun onCreateView(
-    inflater: LayoutInflater,
-    container: ViewGroup?,
-    savedInstanceState: Bundle?
-  ): View? {
-    return inflater.inflate(R.layout.fragment_settings, container, false)
-  }
-
-  override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-    super.onViewCreated(view, savedInstanceState)
-
-    modeGroup.setOnCheckedChangeListener(this)
+  override fun onCreate() {
+    super.onCreate()
 
   }
-
-  override fun onCheckedChanged(rg: RadioGroup?, checkedId: Int) {
-    when (checkedId) {
-      R.id.light -> Log.i("SettingsFragment", "Light")
-      R.id.dark -> Log.i("SettingsFragment", "Dark")
-      R.id.system -> Log.i("SettingsFragment", "System")
-    }
-  }
-
 }
