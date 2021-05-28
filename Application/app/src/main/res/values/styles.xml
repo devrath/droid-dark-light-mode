@@ -1,0 +1,19 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <style name="MessageText" parent="AppTheme">
+    <item name="android:text">@string/let_me_out</item>
+  </style>
+
+  <style name="Astronaut" parent="AppTheme">
+    <item name="android:src">@drawable/airlock</item>
+  </style>
+
+</resources>
