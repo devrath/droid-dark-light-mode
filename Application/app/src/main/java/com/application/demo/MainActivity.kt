@@ -3,9 +3,7 @@ package com.application.demo
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -14,9 +12,7 @@ class MainActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
 
-    pressMeButton.setOnClickListener {
-      Snackbar.make(coordinatorLayout as View, getString(R.string.button_pressed), Snackbar.LENGTH_SHORT).show()
-    }
+    changeModeButton.setOnClickListener { changeMode() }
   }
 
   override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -27,10 +23,14 @@ class MainActivity : AppCompatActivity() {
   override fun onOptionsItemSelected(item: MenuItem): Boolean {
     when (item.itemId) {
       R.id.settingsItem -> {
-        val settingsFragment = SettingsFragment()
-        settingsFragment.show(supportFragmentManager, "SettingsFragment")
+        changeMode()
       }
     }
     return super.onOptionsItemSelected(item)
+  }
+
+  private fun changeMode() {
+    val settingsFragment = SettingsFragment()
+    settingsFragment.show(supportFragmentManager, "SettingsFragment")
   }
 }

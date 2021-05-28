@@ -34,14 +34,18 @@
       app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-      android:id="@+id/pressMeButton"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:padding="8dp"
-      android:text="@string/press_me"
-      app:layout_constraintEnd_toEndOf="parent"
-      app:layout_constraintStart_toEndOf="@+id/astronaut"
-      app:layout_constraintTop_toBottomOf="@+id/message" />
+        android:id="@+id/changeModeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/changeModeButton_marginstart"
+        android:layout_marginEnd="@dimen/changeModeButton_margin_end"
+        android:forceDarkAllowed="false"
+        android:padding="@dimen/half_margin"
+        android:text="@string/change_mode"
+        
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/message" />
 
   </androidx.constraintlayout.widget.ConstraintLayout>
 
