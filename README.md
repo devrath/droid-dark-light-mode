@@ -1,5 +1,5 @@
 # android-congenial-fortnight-darktheme
-![Banner](https://github.com/devrath/devrath/blob/master/images/Banner.png)
+![Banner](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/banner.png)
 
 
 <p align="center">
