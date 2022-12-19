@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Airlock.iml" filepath="$PROJECT_DIR$/.idea/modules/Airlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airlock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airlock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airlock.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airlock.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airlock.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airlock.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airlock.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airlock.app.unitTest.iml" />
     </modules>
   </component>
 </project>
