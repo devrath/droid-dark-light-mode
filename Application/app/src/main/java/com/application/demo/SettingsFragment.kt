@@ -10,11 +10,13 @@ import android.view.ViewGroup
 import android.widget.RadioGroup
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.fragment.app.DialogFragment
+import com.application.demo.databinding.FragmentSettingsBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import kotlinx.android.synthetic.main.fragment_settings.*
 
 class SettingsFragment : BottomSheetDialogFragment(), RadioGroup.OnCheckedChangeListener {
+
+    private var _binding: FragmentSettingsBinding? = null
+    private val binding get() = _binding!!
 
     private lateinit var prefs: SharedPreferences
 
@@ -32,24 +34,25 @@ class SettingsFragment : BottomSheetDialogFragment(), RadioGroup.OnCheckedChange
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_settings, container, false)
+        _binding = FragmentSettingsBinding.inflate(inflater, container, false)
+        return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        modeGroup.setOnCheckedChangeListener(this)
+        binding.modeGroup.setOnCheckedChangeListener(this)
         prefs = requireActivity().getSharedPreferences(Constants.PREFS_MODE, Context.MODE_PRIVATE)
 
         when (prefs.getInt(Constants.MODE_KEY, 0)) {
-            Mode.LIGHT.ordinal -> light.isChecked = true
-            Mode.DARK.ordinal -> dark.isChecked = true
-            Mode.SYSTEM.ordinal, Mode.BATTERY.ordinal -> system.isChecked = true
-            else -> light.isChecked = true
+            Mode.LIGHT.ordinal -> binding.light.isChecked = true
+            Mode.DARK.ordinal -> binding.dark.isChecked = true
+            Mode.SYSTEM.ordinal, Mode.BATTERY.ordinal -> binding.system.isChecked = true
+            else -> binding.light.isChecked = true
         }
 
         if (isPreAndroid10()) {
-            system.text = getString(R.string.battery_saver)
+            binding.system.text = getString(R.string.battery_saver)
         }
     }
 
@@ -74,6 +77,11 @@ class SettingsFragment : BottomSheetDialogFragment(), RadioGroup.OnCheckedChange
         AppCompatDelegate.setDefaultNightMode(nightMode)
         // Save the user selection to preferences
         prefs.edit().putInt(Constants.MODE_KEY, mode.ordinal).apply()
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
     }
 
 }
