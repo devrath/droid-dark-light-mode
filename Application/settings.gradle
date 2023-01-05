@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 include ':app'
-rootProject.name='Airlock'
+rootProject.name='DarkModeDemo'
