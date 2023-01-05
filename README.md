@@ -9,8 +9,7 @@
 </p>
 
 <p align="center"><a><img align="left" src="https://github.com/devrath/devrath/blob/master/images/description.png" width="60" height="60" alt="Description" title="Description"></a></p> 
-Supporting dark theme in android . Check wiki tab above to access the documentation 
-
+Repository describes how to use dark theme in android devices with backward compatibility
 ---
 
 <div align="center">
