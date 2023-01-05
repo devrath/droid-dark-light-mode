@@ -9,6 +9,7 @@
 <a><img src="https://img.shields.io/badge/Feature-Dark%20Mode-black?style=for-the-badge&logo=android"></a>  
 </p>
 
+<div align="center">
 
 | **`Contents`** |
 | -------------- |
@@ -31,8 +32,6 @@
 | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/dark_mode_image.jpeg" width="250" height="250"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/light_mode_image.png" width="350" height="250"/> |
 
 </div>
-
-<div align="center">
 
 ---
 ## **`𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎`** 🗂️
