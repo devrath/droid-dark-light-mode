@@ -9,9 +9,6 @@
 <a><img src="https://img.shields.io/badge/Feature-Dark%20Mode-black?style=for-the-badge&logo=android"></a>  
 </p>
 
-<p align="center"><a><img align="left" src="https://github.com/devrath/devrath/blob/master/images/description.png" width="60" height="60" alt="Description" title="Description"></a></p> 
-
----
 
 <div align="center">
 
