@@ -35,13 +35,14 @@
 
         <Button
             android:id="@+id/changeModeButton"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/changeModeButton_marginstart"
             android:layout_marginEnd="@dimen/changeModeButton_margin_end"
             android:forceDarkAllowed="false"
             android:padding="@dimen/half_margin"
             android:text="@string/change_mode"
+            android:textColor="@android:color/white"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/message" />

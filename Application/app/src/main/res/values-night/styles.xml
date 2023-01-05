@@ -8,6 +8,6 @@
     </style>
 
     <style name="ImageStyle" parent="AppTheme">
-        <item name="android:src">@drawable/dark_mode_img</item>
+        <item name="android:src">@drawable/dark_mode_image</item>
     </style>
 </resources>

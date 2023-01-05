@@ -10,11 +10,11 @@
   </style>
 
   <style name="TextStyle" parent="AppTheme">
-    <item name="android:text">@string/dark_mode_text</item>
+    <item name="android:text">@string/light_mode_text</item>
   </style>
 
   <style name="ImageStyle" parent="AppTheme">
-    <item name="android:src">@drawable/light_mode_img</item>
+    <item name="android:src">@drawable/light_mode_image</item>
   </style>
 
 </resources>
