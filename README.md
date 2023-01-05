@@ -1,4 +1,5 @@
 # android-congenial-fortnight-darktheme
+
 ![Banner](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/banner.png)
 
 
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center"><a><img align="left" src="https://github.com/devrath/devrath/blob/master/images/description.png" width="60" height="60" alt="Description" title="Description"></a></p> 
-Repository describes how to use dark theme in android devices with backward compatibility
+
 ---
 
 <div align="center">
