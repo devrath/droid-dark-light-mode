@@ -13,24 +13,28 @@ Supporting dark theme in android . Check wiki tab above to access the documentat
 
 ---
 
-## **`𝙾𝚞𝚝𝚙𝚞𝚝`** 🧿
-<p align="center">
-<img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/video.gif" width="220" height="460"/>
-</p>
+<div align="center">
 
----
+| **`𝙾𝚞𝚝𝚙𝚞𝚝`** |
+| -------------- |
+| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/video.gif" width="220" height="460"/> |
 
+</div>
+
+<div align="center">
+  
 | **`Contents`** |
 | -------------- |
-| [𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎]() |
-| [𝚂𝚘𝚖𝚎 𝚊𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎𝚜 𝚘𝚏 𝚑𝚊𝚟𝚒𝚗𝚐 𝚊 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍]() |
-| [𝚃𝚢𝚙𝚎𝚜 𝚘𝚏 𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎]() |
-| [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝙵𝚘𝚛𝚌𝚎 𝙳𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍]() |
-| [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚍𝚊𝚢 𝙽𝚒𝚐𝚑𝚝 𝚃𝚑𝚎𝚖𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍]() |
-| [𝙲𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚞𝚜𝚎𝚛𝚜 𝚟𝚒𝚎𝚠 𝚠𝚑𝚎𝚗 𝚞𝚜𝚎𝚛𝚜 𝚜𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜]() |
-| [𝚂𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢]() |
-| [𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚝𝚘 𝙿𝚛𝚎 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝟷𝟶 𝚍𝚎𝚟𝚒𝚌𝚎𝚜] |
+| [𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%83%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%EF%B8%8F) |
+| [𝚂𝚘𝚖𝚎 𝚊𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎𝚜 𝚘𝚏 𝚑𝚊𝚟𝚒𝚗𝚐 𝚊 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%8A%F0%9D%9A%8D%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C-%F0%9D%9A%98%F0%9D%9A%8F-%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90-%F0%9D%9A%8A-%F0%9D%9A%8D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%EF%B8%8F) |
+| [𝚃𝚢𝚙𝚎𝚜 𝚘𝚏 𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%9A%83%F0%9D%9A%A2%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9C-%F0%9D%9A%98%F0%9D%9A%8F-%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%99%BC%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E-%EF%B8%8F) |
+| [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝙵𝚘𝚛𝚌𝚎 𝙳𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%A0-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%99%B5%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%8E-%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E-%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%EF%B8%8F) |
+| [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚍𝚊𝚢 𝙽𝚒𝚐𝚑𝚝 𝚃𝚑𝚎𝚖𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%A0-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%8A%F0%9D%9A%A2-%F0%9D%99%BD%F0%9D%9A%92%F0%9D%9A%90%F0%9D%9A%91%F0%9D%9A%9D-%F0%9D%9A%83%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%EF%B8%8F) |
+| [𝙲𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚞𝚜𝚎𝚛𝚜 𝚟𝚒𝚎𝚠 𝚠𝚑𝚎𝚗 𝚞𝚜𝚎𝚛𝚜 𝚜𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90-%F0%9D%9A%A0%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D-%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C-%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%A0-%F0%9D%9A%A0%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%97-%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C-%F0%9D%9A%9C%F0%9D%9A%A0%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91-%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9C-%EF%B8%8F) |
+| [𝚂𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%A0%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91-%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9C-%F0%9D%9A%99%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%A2-%EF%B8%8F) |
+| [𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚝𝚘 𝙿𝚛𝚎 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝟷𝟶 𝚍𝚎𝚟𝚒𝚌𝚎𝚜](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%99%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%8E-%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%F0%9D%9F%B7%F0%9D%9F%B6-%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%9C-%EF%B8%8F) |
 
+</div>
 
 ---
 ## **`𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎`** 🗂️
