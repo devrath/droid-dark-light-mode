@@ -10,16 +10,6 @@
 </p>
 
 
-<div align="center">
-
-| `Dark Mode` | **`𝙾𝚞𝚝𝚙𝚞𝚝`** | `Light Mode` |
-| ----------- | ----------- | ------------- |
-| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/dark_mode_image.jpeg" width="250" height="250"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/light_mode_image.png" width="350" height="250"/> |
-
-</div>
-
-<div align="center">
-  
 | **`Contents`** |
 | -------------- |
 | [𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%83%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%EF%B8%8F) |
@@ -32,6 +22,17 @@
 | [𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚝𝚘 𝙿𝚛𝚎 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝟷𝟶 𝚍𝚎𝚟𝚒𝚌𝚎𝚜](https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%99%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%94-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%8E-%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%F0%9D%9F%B7%F0%9D%9F%B6-%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%9C-%EF%B8%8F) |
 
 </div>
+
+
+<div align="center">
+
+| `Dark Mode` | **`𝙾𝚞𝚝𝚙𝚞𝚝`** | `Light Mode` |
+| ----------- | ----------- | ------------- |
+| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/dark_mode_image.jpeg" width="250" height="250"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/light_mode_image.png" width="350" height="250"/> |
+
+</div>
+
+<div align="center">
 
 ---
 ## **`𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎`** 🗂️
