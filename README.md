@@ -18,14 +18,14 @@ Supporting dark theme in android . Check wiki tab above to access the documentat
 <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/video.gif" width="220" height="460"/>
 </p>
 
-## **`𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎`**
+## **`𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚛𝚔 𝚃𝚑𝚎𝚖𝚎`** 🗂️
 DarkMode/DarkTheme is a feature in android if supported by the application, we can switch the visual display to dark colors.
 
-## **`𝚂𝚘𝚖𝚎 𝚊𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎𝚜 𝚘𝚏 𝚑𝚊𝚟𝚒𝚗𝚐 𝚊 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`**
+## **`𝚂𝚘𝚖𝚎 𝚊𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎𝚜 𝚘𝚏 𝚑𝚊𝚟𝚒𝚗𝚐 𝚊 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`** 🗂️
 * Reduction in battery usage in OLED and AMOLED display panels. In OLED displays every pixel is individually lit. So when the display is light, most of the display pixels are turned on, which in turn consumes a lot of battery power. On the contrary, when the dark mode is turned on and dark pixels are turned on, the battery usage goes down.
 * Reduces the emission of the harmful Blue light, which in turn reduces the strain on the eyes.
 
-## **`𝚃𝚢𝚙𝚎𝚜 𝚘𝚏 𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎`**
+## **`𝚃𝚢𝚙𝚎𝚜 𝚘𝚏 𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎`** 🗂️
 * `Using day-night Theme`
    * It gives more control and helps to support dark mode in pre android 10 devices. 
    * But its bit time consuming to set up
@@ -38,7 +38,7 @@ DarkMode/DarkTheme is a feature in android if supported by the application, we c
 
 -----
 
-## **`𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝙵𝚘𝚛𝚌𝚎 𝙳𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`**
+## **`𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝙵𝚘𝚛𝚌𝚎 𝙳𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`** 🗂️
 * Make sure you are in `android-10` or `above`
 * Use the line below in the the application theme
 ```xml
@@ -72,7 +72,7 @@ android:forceDarkAllowed="false"/>
 
 -----
 
-## **`𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚍𝚊𝚢 𝙽𝚒𝚐𝚑𝚝 𝚃𝚑𝚎𝚖𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`**
+## **`𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚍𝚊𝚢 𝙽𝚒𝚐𝚑𝚝 𝚃𝚑𝚎𝚖𝚎 𝚘𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍`** 🗂️
 
 ### Steps in setting up the day-night theme
 If we want to support `dark theme` on `android-10 & above`, `pre android` devices we need to use via `day-night theme`
@@ -81,9 +81,7 @@ If we want to support `dark theme` on `android-10 & above`, `pre android` device
 * [*`DayNight Theme`*](https://github.com/devrath/android-congenial-fortnight-darktheme/wiki/How-to-use--day-night-Theme-%3F#daynight-theme)
 * [*`MaterialComponents DayNight Theme`*](https://github.com/devrath/android-congenial-fortnight-darktheme/wiki/How-to-use--day-night-Theme-%3F#materialcomponents-daynight-theme)
 
------
-
-#### **`𝙳𝚊𝚢𝙽𝚒𝚐𝚑𝚝 𝚃𝚑𝚎𝚖𝚎`**
+#### **`DayNight Theme`** 
 * The `androidX` `AppCompact` library has a `DayNight theme` called `Theme.AppCompat.DayNight`
 * In the `res/values/styles.xml`
 ```xml
@@ -125,7 +123,7 @@ implementation 'com.google.android.material:material:1.4.0-beta01'
 
 -----
 
-## **`𝙲𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚞𝚜𝚎𝚛𝚜 𝚟𝚒𝚎𝚠 𝚠𝚑𝚎𝚗 𝚞𝚜𝚎𝚛𝚜 𝚜𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜`**
+## **`𝙲𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚞𝚜𝚎𝚛𝚜 𝚟𝚒𝚎𝚠 𝚠𝚑𝚎𝚗 𝚞𝚜𝚎𝚛𝚜 𝚜𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜`** 🗂️
 `Controlling the resources displayed on the screen using the styles using the modes`
 * We can achieve this using the styles having two values folder for `normal mode` and `dark mode`
   * *`res/values/styles.xml`*
@@ -160,7 +158,7 @@ implementation 'com.google.android.material:material:1.4.0-beta01'
 
 -----
 
-## **`𝚂𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢`**
+## **`𝚂𝚠𝚒𝚝𝚌𝚑 𝚖𝚘𝚍𝚎𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢`** 🗂️
 
 ### Ways of selecting the View Modes 
 There are three modes which we can programmatically select
@@ -182,7 +180,7 @@ Use get the value in `shared preferences` and load it when the application opens
 
 -----
 
-## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚝𝚘 𝙿𝚛𝚎 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝟷𝟶 𝚍𝚎𝚟𝚒𝚌𝚎𝚜`**
+## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚝𝚘 𝙿𝚛𝚎 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝟷𝟶 𝚍𝚎𝚟𝚒𝚌𝚎𝚜`** 🗂️
 * Now we can control the modes in android 10 and above modes easily.
 * But in pre android 10 devices there is no system setting since to take default setting.
 * So we can check if it is pre android 10 and set it into a battery saver mode.
