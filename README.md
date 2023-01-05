@@ -14,7 +14,7 @@
 
 | **`𝙾𝚞𝚝𝚙𝚞𝚝`** |
 | -------------- |
-| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/video.gif" width="220" height="460"/> |
+| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> |
 
 </div>
 
