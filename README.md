@@ -8,6 +8,10 @@
 <a><img src="https://img.shields.io/badge/Built%20By-Android%20Studio-red?style=for-the-badge&logo=android%20studio"></a>  
 <a><img src="https://img.shields.io/badge/Feature-Dark%20Mode-black?style=for-the-badge&logo=android"></a>  
 </p>
+ 
+<p align="center">
+<a>🌗 𝚄𝚜𝚒𝚗𝚐 𝚊 𝚍𝚊𝚛𝚔 𝚖𝚘𝚍𝚎 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝 𝚖𝚘𝚍𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚒𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚋𝚊𝚌𝚔𝚠𝚊𝚛𝚍 𝚌𝚘𝚖𝚙𝚊𝚝𝚒𝚋𝚒𝚕𝚒𝚝𝚢 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚇𝙼𝙻 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗𝚜</a>
+</p>
 
 <div align="center">
 
