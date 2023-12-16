@@ -7,6 +7,8 @@
 <a><img src="https://img.shields.io/badge/Built%20Using-Kotlin-silver?style=for-the-badge&logo=kotlin"></a>
 <a><img src="https://img.shields.io/badge/Built%20By-Android%20Studio-red?style=for-the-badge&logo=android%20studio"></a>  
 <a><img src="https://img.shields.io/badge/Feature-Dark%20Mode-black?style=for-the-badge&logo=android"></a>  
+<a><img src="https://img.shields.io/badge/UI-Compose-green?style=for-the-badge&logo=tools"></a>  
+<a><img src="https://img.shields.io/badge/UI-Xml-purple?style=for-the-badge&logo=tools"></a>  
 </p>
  
 <p align="center">
