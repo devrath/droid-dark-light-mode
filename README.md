@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| `𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎`🌑 | **`𝙾𝚞𝚝𝚙𝚞𝚝`** | `𝙻𝚒𝚐𝚑𝚝 𝙼𝚘𝚍𝚎`☀️ |
-| ----------- | ----------- | ------------- |
-| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/dark_mode_image.jpeg" width="300" height="270"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/light_mode_image.png" width="350" height="250"/> |
+| `𝚇𝙼𝙻 - 𝙳𝚎𝚖𝚘`🌑 | `𝙲𝙾𝙼𝙿𝙾𝚂𝙴 - 𝙳𝚎𝚖𝚘`☀️ |
+| -------------- | ---------------- |
+| <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/demo.gif" width="220" height="460"/> | <img src="https://github.com/devrath/android-congenial-fortnight-darktheme/blob/main/assets/compose_demo.gif" width="220" height="460"/> |
 
 </div>
 
