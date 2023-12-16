@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -24,9 +25,11 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -56,7 +59,10 @@ class MainActivity : ComponentActivity() {
 
             Column(
                 horizontalAlignment = Alignment.CenterHorizontally,
-                verticalArrangement = Arrangement.Center
+                verticalArrangement = Arrangement.Center,
+                modifier = Modifier.background(
+                    color = if(isDarkMode){ Color.Black} else { Color.White }
+                )
             ) {
                 Card(
                     modifier = Modifier.size(300.dp),
@@ -80,14 +86,11 @@ class MainActivity : ComponentActivity() {
                 Spacer(modifier = Modifier.height(50.dp))
 
                 Text(
-                    text = if (isDarkMode) {
-                        "Dark mode text"
-                    } else {
-                        "Light mode text"
-                    },
+                    text = if (isDarkMode) { "Dark mode text" } else { "Light mode text" },
                     textAlign = TextAlign.Center,
                     fontSize = 40.sp,
-                    fontFamily = FontFamily.Monospace
+                    fontFamily = FontFamily.Monospace,
+                    color = if(isDarkMode){ Color.White} else { Color.Black }
                 )
 
                 Spacer(modifier = Modifier.height(50.dp))
